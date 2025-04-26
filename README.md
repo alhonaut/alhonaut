@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Andriy Shvets<br><br>- 🔗 I’m working as Blockchain Developer<br>- 🎓 I'm student of Kyiv Polytechnic Institute<br>- ⚡ In my free time I love to ride a bicycle and go to the mountains</p>
+<p align="left">I'm Andriy Shvets<br><br>- 🔗 Trying to make useful stuff</p>
 
 ###
 
